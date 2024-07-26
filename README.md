@@ -15,6 +15,13 @@
 提交修改后的文案，系统将自动生成相应的配图，让您的文案更加生动、有吸引力。
 文案配图器让文案创作变得更加高效便捷，助您轻松实现创意与效果的完美结合。无论是用于社交媒体、营销宣传还是内容创作，这款工具都能为您提供强大的支持。
 
+<img width="1502" alt="image" src="https://github.com/user-attachments/assets/18f657a4-4288-4b23-b7ba-bcae982fec91">
+
+<img width="1497" alt="image" src="https://github.com/user-attachments/assets/11109db2-bd14-4ed7-b649-9d22ecd8ea15">
+
+<img width="1510" alt="image" src="https://github.com/user-attachments/assets/0262401a-832a-49db-a849-61fd827f00dd">
+
+
 获取密钥：加V获取密钥
 
 ### 交流方式(使用过程中有任何问题或者有很好的idea，非常欢迎一起交流共建)：
